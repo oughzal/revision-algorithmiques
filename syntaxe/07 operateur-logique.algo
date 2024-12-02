@@ -1,0 +1,11 @@
+algorithme operation_logique
+variables
+    a, b: booléens
+    et,ou,non: booléens
+début
+    a = vrai
+    b = faux
+    et = a et b // et logique : vrai si a et b sont vrais
+    ou = a ou b // ou logique : faux si a et b sont faux
+    non = non a // non logique : vrai si a est faux et faux si a est vrai
+fin

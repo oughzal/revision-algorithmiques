@@ -1,0 +1,11 @@
+algorithme Les_variables
+    var
+        // Déclaration de variables
+        n : entier // entier : nombre entier sans virgule
+        x : réel // réel : nombre à virgule
+        b : booléen // booléen : vrai ou faux
+        c : caractère // caractère : un seul caractère
+        ch : chaîne // chaîne : suite de caractères
+    début
+        // corps de l'algorithme
+    fin

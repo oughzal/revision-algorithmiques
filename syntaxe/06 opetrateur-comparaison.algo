@@ -1,0 +1,15 @@
+algorithme operation_comparaison
+variables
+    a, b: entiers
+    eq,lt,gt,le,ge,eq,ne: booléen
+début
+    a = 10
+    b = 3
+    eq = a = b // égalité
+    lt = a < b // inférieur
+    gt = a > b // supérieur
+    le = a <= b // inférieur ou égal
+    ge = a >= b // supérieur ou égal
+    eq = a = b // égalité
+    ne = a != b // différent
+fin

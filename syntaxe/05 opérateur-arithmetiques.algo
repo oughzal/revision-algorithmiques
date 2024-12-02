@@ -1,0 +1,14 @@
+algorithme operation_arithmetique
+variables
+    a, b, s,m,d,m,dEntier: entiers
+début
+    a = 10
+    b = 3
+    s = a + b // addition
+    m = a * b // multiplication
+    d = a / b // division
+    dEntier = a div b // division entière
+    m = a mod b // reste de la division entière
+fin
+
+

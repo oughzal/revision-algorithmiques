@@ -1,0 +1,9 @@
+algorithme Les_constantes
+    const
+        // Déclaration de constantes
+        PI : réel = 3.14159 // PI est une constante de type réel
+        TAILLE_MAX = 100 // TAILLE_MAX est une constante de type entier
+        TEXTE = "Bonjour" // TEXTE est une constante de type chaîne
+    début
+        // corps de l'algorithme
+    fin

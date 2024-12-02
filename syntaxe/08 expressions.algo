@@ -1,0 +1,25 @@
+algorithme les_expressions
+variables
+    a, b: entiers
+    x, y: réels
+    c1, c2: caractères
+    s1, s2: chaîne
+    exp_entier: entier
+    exp_reel: réel
+    exp_caractere: caractère
+    exp_chaine: chaîne
+    exp_booleen: booléen
+début
+    /* une expression est une combinaison de variables, de valeurs littérales, d'opérateurs et de fonctions qui produit une valeur */
+    /* priorité des opérateurs
+        1. parenthèses
+        2. puissance
+        3. multiplication, division, modulo
+        4. addition, soustraction
+        5. comparaison
+        6. logique
+    */
+    exp_entier = 10 + 3 * 2 // 16
+    exp_entier = (10 + 3) * 2 // 26
+fin
+    

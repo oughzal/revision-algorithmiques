@@ -1,0 +1,16 @@
+algorithme sortie
+variables
+    a, b,c: entiers
+    x, y: réels
+début
+    /*
+    l'instruction de sortie permet d'afficher des valeurs à l'écran
+    syntaxe : écrire(valeur1, valeur2, ...)
+    les valeurs peuvent être des variables, des valeurs littérales, des expressions
+    */
+    a = 10
+    b = 3
+    c = a + b
+    écrire("la somme de ", a, " et ", b, " est ", c)
+    écrire("la somme de ", a, " et ", b, " est ", a + b)
+fin
